@@ -1,6 +1,6 @@
 # fly.toml file generated for proxypoolss on 2021-02-15T13:21:25+08:00
 
-app = "example-proxypool"
+app = "poooool"
 
 [build]
   builtin = "go"
@@ -32,4 +32,4 @@ kill_timeout = 5
     timeout = "2s"
 [env]
   CONFIG_FILE = "./config/config.yaml"
-  DOMAIN = "example-proxypool.fly.dev"
+  DOMAIN = "poooool.fly.dev"
